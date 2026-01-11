@@ -1,0 +1,5 @@
+{
+  "name": "Tri-Spot Multiplayer",
+  "description": "A real-time multiplayer implementation of the Dobble/Spot It! mechanics with a unique 3-card matching mode. Features a mathematically generated projective plane deck.",
+  "requestFramePermissions": []
+}
